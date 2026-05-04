@@ -53,6 +53,13 @@ Construir uma solução de BI capaz de:
   - Automação
     1. Power Automate (geração de arquivos e integração)
 
+## Modelo Entidade-Relacionamento (MER)
+
+- Tabela Fato: fato_PontoFunc
+- Tabelas Dimensão: dimCalendário, dim_Setor, dim_Cargo, dim_EscalaTrabalho, dim_EscalaTrabalhoHorarios, dim_Filial, dim_Contato e Dados (Colaborador).
+
+<img width="953" height="702" alt="MER" src="https://github.com/user-attachments/assets/f0029c45-a293-463c-a768-afe32fc1bef9" />
+
 
 ## Principais Ferramentas Utilizadas
 
